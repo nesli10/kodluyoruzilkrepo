@@ -20,6 +20,6 @@ code.
 
  # licance
  MIT
+ 
 
- ![resim](https://www.hizliresim.com/7clpvx9)
-
+![Ekran Görüntüsü (85)](https://user-images.githubusercontent.com/56928038/188278006-9ab08afc-cdc5-4e77-86db-945f3fda2de0.png)
