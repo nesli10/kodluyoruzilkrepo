@@ -21,5 +21,5 @@ code.
  # licance
  MIT
  
-![Images]https://github.com/nesli10/kodluyoruzilkrepo/blob/master/project.png)
 
+![project](https://user-images.githubusercontent.com/56928038/188278385-f9d54bc2-457d-424b-8d1a-9e34a3e6f599.png)
