@@ -21,5 +21,4 @@ code.
  # licance
  MIT
 
- ![resim](https://www.hizliresim.com/7clpvx9)
-
+![Images](Project.png)
